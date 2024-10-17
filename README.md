@@ -5,7 +5,8 @@ This ERP has three people
 - Student
 - Admin 
 
-### Teacher 
+
+## Teacher 
 Things Teacher can do -
 - create / update / delete Timetable
 - create / update / delete Assignment
@@ -17,7 +18,7 @@ Things Teacher can do -
 - update Teacher Info & Credentials
 
 
-### Student 
+## Student 
 Things Student can do - 
 - get Online Student ID 
 - get Timetable
@@ -27,11 +28,13 @@ Things Student can do -
 - update Student Info & Credentials
 
 
-### Admin 
+## Admin 
 Things Admin can do - 
 - can only register first teacher 
 
-# Steps to run this code
+
+
+# **Steps to run this code**
 
 ## 1. Backend
 1. Create a " **.env** " file
